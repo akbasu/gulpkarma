@@ -1,21 +1,21 @@
 {
-  "name": "sample-project-gulp",
+  "name": "sample-gulp",
   "version": "1.0.0",
-  "description": "The sample project we will use throughout the Gulp chapters",
+  "description": "The sample project to run unit tests via gulp and karma",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontend-tooling/sample-project-gulp"
+    "url": "https://github.com/akbasu/gulpkarma"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frontend-tooling/sample-project-gulp/issues"
+    "url": "https://github.com/akbasu/gulpkarma/issues"
   },
-  "homepage": "https://github.com/frontend-tooling/sample-project-gulp",
+  "homepage": "https://github.com/akbasu/gulpkarma",
   "devDependencies": {
     "del": "^2.0.1",
     "gulp": "~3.9.1",
