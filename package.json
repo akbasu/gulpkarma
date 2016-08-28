@@ -1,0 +1,35 @@
+{
+  "name": "sample-project-gulp",
+  "version": "1.0.0",
+  "description": "The sample project we will use throughout the Gulp chapters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frontend-tooling/sample-project-gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontend-tooling/sample-project-gulp/issues"
+  },
+  "homepage": "https://github.com/frontend-tooling/sample-project-gulp",
+  "devDependencies": {
+    "del": "^2.0.1",
+    "gulp": "~3.9.1",
+    "karma-growl-reporter": "~1.0.0",
+    "karma-chrome-launcher": "~2.0.0",
+    "jasmine-core": "~2.4.1",
+    "karma-jasmine": "~1.0.2",
+    "jasmine": "~2.4.1",    
+    "karma-coverage": "~1.1.1",
+    "karma-phantomjs-launcher": "~1.0.1",
+    "karma": "~1.2.0",
+    "phantomjs": "~2.1.7"
+  },
+  "dependencies": {
+    "jshint": "^2.9.2"
+  }
+}
