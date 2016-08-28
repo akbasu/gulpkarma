@@ -5,8 +5,9 @@ module.exports = function(config) {
     browsers: ['PhantomJS'],
     frameworks: ['jasmine'],
     files: [
-      'app/client/**/*.js'//,
-      //'test/**/*.spec.js'
+      'node_modules/angular/**/angular.js',
+      'app/client/**/*.module.js',
+      'app/client/**/*.js'
     ],
     reporters: ['progress', 'coverage'],
 

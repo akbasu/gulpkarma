@@ -23,11 +23,12 @@
     "karma-chrome-launcher": "~2.0.0",
     "jasmine-core": "~2.4.1",
     "karma-jasmine": "~1.0.2",
-    "jasmine": "~2.4.1",    
+    "jasmine": "~2.4.1",
     "karma-coverage": "~1.1.1",
     "karma-phantomjs-launcher": "~1.0.1",
     "karma": "~1.2.0",
-    "phantomjs": "~2.1.7"
+    "phantomjs": "~2.1.7",
+    "angular": "~1.5.8"
   },
   "dependencies": {
     "jshint": "^2.9.2"
